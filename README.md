@@ -1,16 +1,15 @@
 # 7DaysOfCode Lógica com Javascript 
 
-Projetos iniciantes da Alura usando Javascript
+Projetos iniciantes na Alura utilizando Javascript. 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **7DaysOfCode Lógica com Javascript**
-| :label: Tecnologias | Javascript, HTML (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
+| :sparkles: Nome        | **#7DaysOfCode Lógica com Javascript**
+| :label: Tecnologias | Javascript, HTML 
 | :fire: Desafio     | https://7daysofcode.io/matricula/logica-programacao
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://s3-us-west-2.amazonaws.com/robogarden-new/Articles/upload/blogs/lg-leverage-of-coding.jpg#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+7 projetos simples feitos durante os sete dias do desafio #7daysofcode para iniciantes em Programação. Após essa etapa, será benéfico dar mergulhos mais profundos em linguagens de programação específicas, por exemplo começando por Javascript. 
